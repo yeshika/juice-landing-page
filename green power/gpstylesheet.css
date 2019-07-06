@@ -43,7 +43,7 @@
     flex-direction: row;
     justify-content: end;
     align-content: center;
-    animation: img-anim 2s ease ;
+    animation: img-anim 1s ease ;
     /* position: relative; */
     
 }
