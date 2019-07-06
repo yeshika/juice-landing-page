@@ -44,7 +44,7 @@
     justify-content: end;
     align-content: center;
     /* position: relative; */
-    animation: img-anim 2s ease;
+    animation: img-anim 1s ease;
     
 }
 @keyframes img-anim{
